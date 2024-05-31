@@ -188,11 +188,11 @@ CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOW_ORIGINS = [
     "http://localhost:3000",
     "http://127.0.0.1:8000",
-    'https://port-0-drf-server-ss7z32llwulb5eo.sel5.cloudtype.app/',
+    'https://port-0-drf-server-ss7z32llwulb5eo.sel5.cloudtype.app',
 ]
 
 CSRF_TRUSTED_ORIGINS = [
     "http://localhost:3000",
     "http://127.0.0.1:8000",
-    'https://port-0-drf-server-ss7z32llwulb5eo.sel5.cloudtype.app/',
+    'https://port-0-drf-server-ss7z32llwulb5eo.sel5.cloudtype.app',
 ]
