@@ -148,6 +148,7 @@ REST_AUTH = {
 'JWT_AUTH_COOKIE' : 'access',
 'JWT_AUTH_REFRESH_COOKIE' : "refresh_token",
 }
+
 SITE_ID = 1
 ACCOUNT_USER_MODEL_USERNAME_FIELD = None
 ACCOUNT_USERNAME_REQUIRED = False #username 필드 사용 x
